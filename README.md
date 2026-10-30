@@ -316,14 +316,14 @@ The complete implementation is provided in a Google Colab notebook.
 
 **Google Colab Notebook:**
 
-https://colab.research.google.com/drive/1t1PBKGPbLAadVUDPFQuYTkzCqsJB8EHi?usp=sharing
+[https://colab.research.google.com/drive/1t1PBKGPbLAadVUDPFQuYTkzCqsJB8EHi?usp=sharing](https://colab.research.google.com/drive/1t1PBKGPbLAadVUDPFQuYTkzCqsJB8EHi?usp=sharing)
 
 ### Option 2: Run Locally
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+git clone (https://github.com/Sanika13112/Generative-AI-Models-Comparative-Study)
 ```
 
 Navigate to the project folder:
